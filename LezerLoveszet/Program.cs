@@ -80,7 +80,7 @@ namespace LezerLoveszet
 
             /* 12. Feladat */
             Console.WriteLine("12. Feladat: Átlagpontszámok:");
-            double nyertes = 0; 
+            double nyertes = 0;
             int index = 0;
             for (int i = 0; i < jatekosok_nevei.Count; i++)
             {
