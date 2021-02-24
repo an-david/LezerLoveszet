@@ -75,7 +75,7 @@ namespace LezerLoveszet
                 }
                 osszes_dobasok_szama[dobasok_szamai_index] = osszes_dobas;
                 dobasok_szamai[dobasok_szamai_index++] = lovesek_szama;
-                Console.WriteLine($"\t{item} - {lovesek_szama}");
+                Console.WriteLine($"\t{item} - {lovesek_szama}"); 
             }
 
             /* 12. Feladat */
